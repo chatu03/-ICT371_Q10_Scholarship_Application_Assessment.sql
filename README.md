@@ -1,0 +1,1 @@
+# -ICT371_Q10_Scholarship_Application_Assessment.sql
